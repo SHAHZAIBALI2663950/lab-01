@@ -1,6 +1,18 @@
-body { background: green; }
-.my-class {
-    background-color: red;
+body{
+    background: #099;
+    color: white;
+    width: 60%;
+    margin: 0 auto;
+
+}
+h1{
+    font-family: sans-serif;
+
+}
+p{
+    margin: 0.5em 0;
+
+}
+.highlight{
     color: yellow;
-    width: fit-content;
 }
